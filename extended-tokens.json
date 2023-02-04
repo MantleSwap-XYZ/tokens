@@ -1,0 +1,64 @@
+{
+  "name": "Mantleswap Extended",
+  "timestamp": "2023-02-04T06:42:01",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://mantleswap.xyz/logo.png",
+  "keywords": [
+    "mantleswap",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped BIT",
+      "symbol": "WBIT",
+      "address": "0xEd5e625d794879c1921BAfe50169B55c6DDdCc83",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0xed5e625d794879c1921bafe50169b55c6dddcc83.png"
+    },
+    {
+      "name": "Mantleswap",
+      "symbol": "MANTLE",
+      "address": "0x3a70211FD9aa57F6fF310dB3802Cc987Bb799DeC",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0x3a70211fd9aa57f6ff310db3802cc987bb799dec.png"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0x6B6A927578403dE76a2fd987642aBdD3330C67Cc",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0x6b6a927578403de76a2fd987642abdd3330c67cc.png"
+    },
+    {
+      "name": "USD Tether",
+      "symbol": "USDT",
+      "address": "0xf4FB55859869b85C76c9bdF922226686547c8297",
+      "chainId": 5001,
+      "decimals": 6,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0xf4fb55859869b85c76c9bdf922226686547c8297.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xD02a1F1662DfbE12f6B72652576bb9bb6B97a8a9",
+      "chainId": 5001,
+      "decimals": 6,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0xd02a1f1662dfbe12f6b72652576bb9bb6b97a8a9.png"
+    },
+    {
+      "name": "Dai",
+      "symbol": "DAI",
+      "address": "0xD173258ed31Fcd38831a77fDE858D3A3eEEEFa05",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0xd173258ed31fcd38831a77fde858d3a3eeeefa05.png"
+    }
+  ]
+}
