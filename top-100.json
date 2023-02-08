@@ -2,7 +2,7 @@
   "name": "Mantleswap Top 100",
   "timestamp": "2023-02-04T06:42:01.000Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
@@ -26,7 +26,7 @@
       "address": "0xC44096976C7aD81ECc5F8943B27E380d8b378C6f",
       "chainId": 5001,
       "decimals": 18,
-      "logoURI": "https://mantleswap.xyz/images/tokens/0x3a70211fd9aa57f6ff310db3802cc987bb799dec.png"
+      "logoURI": "https://mantleswap.xyz/images/tokens/0xc44096976c7ad81ecc5f8943b27e380d8b378c6f.png"
     },
     {
       "name": "Binance USD",
