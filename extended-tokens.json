@@ -2,7 +2,7 @@
   "name": "Mantleswap Extended",
   "timestamp": "2023-02-04T06:42:01.000Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -19,6 +19,38 @@
       "chainId": 5001,
       "decimals": 18,
       "logoURI": "https://mantleswap.xyz/images/tokens/0xed5e625d794879c1921bafe50169b55c6dddcc83.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0x9155d6bFD923398D77292a2781D3E4acfD3cFFd6",
+      "chainId": 5001,
+      "decimals": 8,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0x9155d6bfd923398d77292a2781d3e4acfd3cffd6.png"
+    },
+    {
+      "name": "Ether",
+      "symbol": "WETH",
+      "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111.png"
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "address": "0x7AD75528ad538B8E28b624033DD3C10F2Ad96a37",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0x7ad75528ad538b8e28b624033dd3c10f2ad96a37.webp"
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "address": "0xA440ca6123C6d472F85c1f3930395664BCcd3d01",
+      "chainId": 5001,
+      "decimals": 18,
+      "logoURI": "https://mantleswap.xyz/images/tokens/0xa440ca6123c6d472f85c1f3930395664bccd3d01.png"
     },
     {
       "name": "MantleSwap",
@@ -39,7 +71,7 @@
     {
       "name": "USD Tether",
       "symbol": "USDT",
-      "address": "0xf4FB55859869b85C76c9bdF922226686547c8297",
+      "address": "0x27ee0eB6EbbcbCd4706C3291604AdC2F4384d09F",
       "chainId": 5001,
       "decimals": 6,
       "logoURI": "https://mantleswap.xyz/images/tokens/0xf4fb55859869b85c76c9bdf922226686547c8297.png"
@@ -47,10 +79,10 @@
     {
       "name": "USD Coin",
       "symbol": "USDC",
-      "address": "0xD02a1F1662DfbE12f6B72652576bb9bb6B97a8a9",
+      "address": "0x2ED3c15eC59CE827c4aBBabfF76d37562558437D",
       "chainId": 5001,
       "decimals": 6,
-      "logoURI": "https://mantleswap.xyz/images/tokens/0xd02a1f1662dfbe12f6b72652576bb9bb6b97a8a9.png"
+      "logoURI": "https://mantleswap.xyz/images/tokens/0x2ed3c15ec59ce827c4abbabff76d37562558437d.png"
     },
     {
       "name": "Dai",
